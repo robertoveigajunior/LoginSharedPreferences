@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginSharedPreferences</string>
+    <string name="title_activity_livros">LivrosActivity</string>
+</resources>
